@@ -94,6 +94,6 @@ We welcome contributions! To contribute:
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## Acknowledgments
-Special thanks to all contributors and the open-source community for their support!
+## Author
+Fredinard Ohene-Addo
 
